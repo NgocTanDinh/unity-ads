@@ -2,7 +2,7 @@
   "data": [
     {
       "applicationID": "wallpaper.hd.free",
-      "enable": false
+      "enable": true
     },
     {
       "applicationID": "com.dntan.app2",
