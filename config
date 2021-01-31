@@ -1,12 +1,16 @@
 {
-  "donationIds": [
-    "com.fairese.nae.sDonationT1",
-    "com.fairese.nae.sDonationT2",
-    "com.fairese.nae.sDonationT3",
-    "com.fairese.nae.sDonationT11"
-  ],
-  "functionalityIds": [
-    "com.fairese.nae.silviannaPro",
-    "com.fairese.nae.silviannaProTrial"
+  "data": [
+    {
+      "applicationID": "com.dntan.app1",
+      "enable": true
+    },
+    {
+      "applicationID": "com.dntan.app2",
+      "enable": false
+    },
+    {
+      "applicationID": "com.dntan.app3",
+      "enable": true
+    }
   ]
 }
