@@ -1,16 +1,16 @@
 {
   "data": [
     {
-      "applicationID": "wallpaper.hd.free",
-      "enable": true
-    },
-    {
-      "applicationID": "com.dntan.app2",
+      "applicationID": "live.wallpaper.hd.free",
       "enable": false
     },
     {
-      "applicationID": "com.dntan.app3",
-      "enable": true
+      "applicationID": "",
+      "enable": false
+    },
+    {
+      "applicationID": "",
+      "enable": false
     }
   ]
 }
