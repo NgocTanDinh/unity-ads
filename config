@@ -2,7 +2,7 @@
   "data": [
     {
       "applicationID": "live.wallpaper.hd.free",
-      "enable": false
+      "enable": true
     },
     {
       "applicationID": "",
