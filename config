@@ -1,11 +1,15 @@
 {
   "data": [
     {
-      "applicationID": "live.wallpaper.hd.free",
+      "applicationID": "wallpaper.hd.free",
       "enable": false
     },
     {
-      "applicationID": "wallpaper.hd.free",
+      "applicationID": "wallpaper.hd.free02",
+      "enable": false
+    },
+    {
+      "applicationID": "live.wallpaper.hd.free",
       "enable": false
     },
     {
@@ -13,7 +17,7 @@
       "enable": false
     },
     {
-      "applicationID": "wallpaper.hd.free02",
+      "applicationID": "live.wallpaper.hd.free03",
       "enable": false
     },
     {
