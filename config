@@ -27,6 +27,10 @@
     {
       "applicationID": "bible.king.jame.study.ver03",
       "enable": false
+    },
+    {
+      "applicationID": "bible.king.jame.study02",
+      "enable": false
     }
   ]
 }
