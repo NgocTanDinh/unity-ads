@@ -33,6 +33,10 @@
       "enable": false
     },
     {
+      "applicationID": "bible.king.jame.study.ver04",
+      "enable": false
+    },
+    {
       "applicationID": "bible.king.jame.study02",
       "enable": false
     }
