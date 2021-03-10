@@ -53,6 +53,10 @@
       "enable": false
     },
     {
+      "applicationID": "bible.king.jame.study05",
+      "enable": false
+    },
+    {
       "applicationID": "bible.king.jame.study02",
       "enable": false
     }
