@@ -17,6 +17,10 @@
       "enable": false
     },
     {
+      "applicationID": "source.live.wallpaper.free",
+      "enable": false
+    },
+    {
       "applicationID": "live.wallpaper.hd.free",
       "enable": false
     },
