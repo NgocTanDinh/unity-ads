@@ -63,6 +63,10 @@
     {
       "applicationID": "bible.king.jame.study02",
       "enable": false
+    },
+    {
+      "applicationID": "bible.king.jame.study06",
+      "enable": false
     }
   ]
 }
