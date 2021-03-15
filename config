@@ -67,6 +67,10 @@
     {
       "applicationID": "bible.king.jame.study06",
       "enable": false
+    },
+    {
+      "applicationID": "live.wallpaper.auto.change.free06",
+      "enable": false
     }
   ]
 }
