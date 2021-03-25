@@ -101,6 +101,10 @@
       "enable": true
     },
     {
+      "applicationID": "bible.king.jame.study09",
+      "enable": true
+    },
+    {
       "applicationID": "live.wallpaper.auto.change.free06",
       "enable": false
     }
