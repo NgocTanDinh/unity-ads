@@ -111,6 +111,10 @@
     {
       "applicationID": "audio.book.bible.study01",
       "enable": true
+    },
+    {
+      "applicationID": "style.live.wallpaper.auto01",
+      "enable": true
     }
   ]
 }
