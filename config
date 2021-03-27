@@ -107,6 +107,10 @@
     {
       "applicationID": "live.wallpaper.auto.change.free06",
       "enable": false
+    },
+    {
+      "applicationID": "audio.book.bible.study01",
+      "enable": true
     }
   ]
 }
