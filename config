@@ -2,27 +2,27 @@
   "data": [
     {
       "applicationID": "wallpaper.hd.free",
-      "enable": true
+      "enable": false
     },
     {
       "applicationID": "wallpaper.hd.free02",
-      "enable": true
+      "enable": false
     },
     {
       "applicationID": "wallpaper.hd.free03",
-      "enable": true
+      "enable": false
     },
     {
       "applicationID": "wallpaper.hd.free04",
-      "enable": true
+      "enable": false
     },
     {
       "applicationID": "wallpaper.hd.free05",
-      "enable": true
+      "enable": false
     },
     {
       "applicationID": "source.live.wallpaper.free",
-      "enable": true
+      "enable": false
     },
     {
       "applicationID": "source.live.wallpaper.free02",
@@ -70,7 +70,7 @@
     },
     {
       "applicationID": "bible.king.jame.study.ver03",
-      "enable": true
+      "enable": false
     },
     {
       "applicationID": "bible.king.jame.study.ver04",
@@ -78,7 +78,7 @@
     },
     {
       "applicationID": "bible.king.jame.study.ver05",
-      "enable": true
+      "enable": false
     },
     {
       "applicationID": "bible.king.jame.study05",
@@ -98,11 +98,11 @@
     },
     {
       "applicationID": "bible.king.jame.study08",
-      "enable": true
+      "enable": false
     },
     {
       "applicationID": "bible.king.jame.study09",
-      "enable": true
+      "enable": false
     },
     {
       "applicationID": "live.wallpaper.auto.change.free06",
