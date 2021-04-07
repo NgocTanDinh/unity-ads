@@ -123,6 +123,10 @@
     {
       "applicationID": "style.live.wallpaper.auto01",
       "enable": true
+    },
+    {
+      "applicationID": "store3.bible.kjv.ver01",
+      "enable": true
     }
   ]
 }
