@@ -131,6 +131,10 @@
     {
       "applicationID": "store3.live.wallpaper.ver01",
       "enable": true
+    },
+    {
+      "applicationID": "store2.live.wallpaper.ver01",
+      "enable": true
     }
   ]
 }
