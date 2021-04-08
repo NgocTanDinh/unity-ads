@@ -143,6 +143,10 @@
     {
       "applicationID": "store1.live.wallpaper.ver01",
       "enable": true
+    },
+    {
+      "applicationID": "store1.bible.kjv.ver01",
+      "enable": true
     }
   ]
 }
