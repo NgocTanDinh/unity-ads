@@ -147,7 +147,7 @@
     {
       "applicationID": "store1.bible.kjv.ver01",
       "enable": true,
-      "adsTime": 15
+      "adsTime": 5
     }
   ]
 }
