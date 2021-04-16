@@ -137,7 +137,15 @@
       "enable": true
     },
     {
+      "applicationID": "store2.live.wallpaper.ver02",
+      "enable": true
+    },
+    {
       "applicationID": "store2.bible.kjv.ver01",
+      "enable": true
+    },
+    {
+      "applicationID": "store2.bible.kjv.ver02",
       "enable": true
     },
     {
