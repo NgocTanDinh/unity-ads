@@ -129,6 +129,10 @@
       "enable": true
     },
     {
+      "applicationID": "store3.bible.kjv.ver02",
+      "enable": true
+    },
+    {
       "applicationID": "store3.live.wallpaper.ver01",
       "enable": true
     },
