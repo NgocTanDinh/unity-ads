@@ -197,6 +197,10 @@
       "enable": true
     },
     {
+      "applicationID": "store1.live.wallpaper.ver03",
+      "enable": true
+    },
+    {
       "applicationID": "store1.bible.kjv.ver01",
       "enable": true,
       "adsTime": 5
