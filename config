@@ -208,6 +208,10 @@
     {
       "applicationID": "store1.bible.kjv.ver02",
       "enable": true
+    },
+    {
+      "applicationID": "store1.bible.kjv.ver03",
+      "enable": true
     }
   ]
 }
