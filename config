@@ -173,6 +173,10 @@
       "enable": true
     },
     {
+      "applicationID": "store02.live.wallpaper.ver05",
+      "enable": true
+    },
+    {
       "applicationID": "store02.bible.kjv.ver01",
       "enable": true
     },
