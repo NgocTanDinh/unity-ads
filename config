@@ -212,6 +212,10 @@
     {
       "applicationID": "store1.bible.kjv.ver03",
       "enable": true
+    },
+    {
+      "applicationID": "store4.live.wallpaper.ver01",
+      "enable": true
     }
   ]
 }
