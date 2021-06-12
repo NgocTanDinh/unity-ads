@@ -1,1 +1,1 @@
-# admobconfig
+# Unity ads config
